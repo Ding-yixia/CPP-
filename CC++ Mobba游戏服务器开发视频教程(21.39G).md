@@ -1,0 +1,167 @@
+C/C++ Mobba游戏服务器开发视频教程(21.39G)
+
+链接: https://pan.baidu.com/s/1fbgkrMUgEfJ6sacZv2baiw 提取码: sefc
+
+〖课程介绍〗:
+
+在服务器方面不仅仅是需要C++的基础十分牢固还需要有TCP/IP、Socket方面的知识。所以会通过博客和笔记一点点补这些知识。服务器方面和其他不一样，服务器方面的基础要十分的扎实，这样的话才能让自己以后编写起来更加的方便.
+
+〖课程目录〗:
+
+
+01C_数据结构_C++
+  ┣━━第001课计算机基础.vep.mkv
+  ┣━━第002课VS编译器的使用.vep.mkv
+  ┣━━第003课C语言第一个程序.vep.mkv
+  ┣━━第005课C语言局部变量_基本数据类型.vep.mkv
+  ┣━━第006课逻辑运算_条件语句_循环语句.vep.mkv
+  ┣━━第007课C语言基础习题练习.vep.mkv
+  ┣━━第008课C语言编码规范与常见的编译错误.vep.mkv
+  ┣━━第009课C语言全局变量_sizeof_数组.vep.mkv
+  ┣━━第010课C语言代码运行过程详解.vep.mkv
+  ┣━━第011课C语言指针基础.vep.mkv
+  ┣━━第012课C语言指针与数组.vep.mkv
+  ┣━━第013课C语言多阶指针_类型强转_指针强转.vep.mkv
+  ┣━━第014课C语言动态内存分配.vep.mkv
+  ┣━━第015课C语言内存操作函数与宏_条件编译.vep.mkv
+  ┣━━第016课C语言模块_头文件_源文件_头文件搜索路径.vep.mkv
+  ┣━━第017课C语言字符与字符串.vep.mkv
+  ┣━━第018课C语言位运算.vep.mkv
+  ┣━━第019课C语言结构体.vep.mkv
+  ┣━━第021课C语言文件读写.vep.mkv
+  ┣━━第022课C语言static_const_typedef_goto关键字.vep.mkv
+  ┣━━第023课C语言递归调用.vep.mkv
+  ┣━━第024课C语言动态数组.vep.mkv
+  ┣━━第025课C语言链表.vep.mkv
+  ┣━━第026课C语言树.vep.mkv
+  ┣━━第027课C语言Hash表.vep.mkv
+  ┣━━第028课C++类_类的实例_数据成员_成员函数_构造函数(上).vep.mkv
+  ┣━━第029课c++类的本质与this指针.vep.mkv
+  ┣━━第030课c++_static_const_函数调用_名字空间.vep.mkv
+  ┣━━第031课c++_初始化列表_多态_动态分配_struct_引用.vep.mkv
+  ┣━━第032课c++_继承与重载.vep.mkv
+  ┣━━第033课c++_函数指针_虚函数_虚函数表_纯虚函数.vep.mkv
+  ┣━━第034课c++_模板.vep.mkv
+  ┗━━第035课c++_操作符重载_string_vector_map.vep.mkv
+02lua程序设计
+  ┣━━第001课lua环境搭建_数据类型_局部变量.vep.mkv
+  ┣━━第002课lua基本表达式与顺序_条件_循环.vep.mkv
+  ┣━━第003课lua字符串与表的高级使用.vep.mkv
+  ┣━━第004课lua_多返回值_require_模块.vep.mkv
+  ┗━━第005课lua_self_点_冒号_面向对象_继承.vep.mkv
+04C_C++网络_协议_数据库
+  ┣━━第001课网络基础.vep.mkv
+  ┣━━第002课TCP_Socket基础编程.vep.mkv
+  ┣━━第003课OS任务调度.vep.mkv
+  ┣━━第004课Select管理模型.vep.mkv
+  ┣━━第005课IOCP管理模型.vep.mkv
+  ┣━━第006课windows多线程.vep.mkv
+  ┣━━第007课文件的异步读写.vep.mkv
+  ┣━━第008课libuv介绍和编译.vep.mkv
+  ┣━━第009课libuv_TCP服务器搭建.vep.mkv
+  ┣━━第010课UDP通讯.vep.mkv
+  ┣━━第011课libuv_UDP服务器.vep.mkv
+  ┣━━第012课libuv_定时器设计.vep.mkv
+  ┣━━第013课libuv异步文件读写.vep.mkv
+  ┣━━第014课JSON数据格式编码与解码.vep.mkv
+  ┣━━第015课base64_md5_sha1.vep.mkv
+  ┣━━第016课http_parser报文解析.vep.mkv
+  ┣━━第017课websocket协议.vep.mkv
+  ┣━━第018课websocket协议(下).vep.mkv
+  ┣━━第019课http_server的原理与实现.vep.mkv
+  ┣━━第020课mysql数据库的搭建与操作.vep.mkv
+  ┣━━第021课redis数据库的搭建与基本操作.vep.mkv
+  ┣━━第022课程序访问mysql数据库服务.vep.mkv
+  ┣━━第023课程序访问redis服务.vep.mkv
+  ┣━━第024课初识protobuf.vep.mkv
+  ┣━━第025课protobuf语法.vep.mkv
+  ┣━━第026课protobuf_c++高级使用.vep.mkv
+  ┗━━第027课libuv多线程与工作队列.vep.mkv
+05服务框架_Lua导出_底层封装
+  ┣━━第001课高效游戏服务器要素与架构.vep.mkv
+  ┣━━第002课netbus与session.vep.mkv
+  ┣━━第003课session内存池的管理.vep.mkv
+  ┣━━第004课websocket协议支持.vep.mkv
+  ┣━━第005课tcp的封包与拆包.vep.mkv
+  ┣━━第006课命令格式与协议管理.vep.mkv
+  ┣━━第007课service与service管理.vep.mkv
+  ┣━━第008课log日志管理与timer时间戳.vep.mkv
+  ┣━━第009课udp服务器搭建.vep.mkv
+  ┣━━第010课异步mysql模块.vep.mkv
+  ┣━━第011课异步redis模块.vep.mkv
+  ┣━━第012课内置Lua脚本解释引擎.vep.mkv
+  ┣━━第013课Lua日志函数导出.vep.mkv
+  ┣━━第014课tolua++模块导出.vep.mkv
+  ┣━━第015课mysql_模块导出.vep.mkv
+  ┣━━第016课redis_模块导出.vep.mkv
+  ┣━━第017课service模块导出.vep.mkv
+  ┣━━第018课session模块导出.vep.mkv
+  ┣━━第019课timer模块导出.vep.mkv
+  ┣━━第020课proto_man与netbus模块导出Lua项目模板.vep.mkv
+  ┣━━第021课unity_TCP网络模块(一).vep.mkv
+  ┣━━第022课unity_TCP网络模块(二).vep.mkv
+  ┣━━第023课unity_TCP网络模块(三).vep.mkv
+  ┣━━第024课unity_TCP网络模块(四).vep.mkv
+  ┣━━第025课unity_网络聊天室(一).vep.mkv
+  ┣━━第026课unity_网络聊天室(二).vep.mkv
+  ┣━━第027课unity_网络聊天室(三).vep.mkv
+  ┗━━第028课服务器内存优化与连接其他服务器.vep.mkv
+06服务器分布式部署与通用服务器
+  ┣━━第001课网关服务器(一)分布式结构调整.vep.mkv
+  ┣━━第002课网关服务器(二)网关转发模块.vep.mkv
+  ┣━━第003课网关服务器(三)远端服务器连接管理.vep.mkv
+  ┣━━第004课网关服务器(四)客户端转数据给服务器.vep.mkv
+  ┣━━第005课网关服务器(五)服务器转发给客户端.vep.mkv
+  ┣━━第006课Unity框架(一)unity单例模式.vep.mkv
+  ┣━━第007课Unity框架(二)事件订阅与发布.vep.mkv
+  ┣━━第008课Unty框架(三)声音管理系统.vep.mkv
+  ┣━━第009课Unity框架(四)FPS显示.vep.mkv
+  ┣━━第010课服务器json协议_websocket对接.vep.mkv
+  ┣━━第011课用户中心服务器数据库设计.vep.mkv
+  ┣━━第012课游客登陆与注册(一).vep.mkv
+  ┣━━第013课游客登陆与注册(二).vep.mkv
+  ┣━━第014课游客登陆与注册(三).vep.mkv
+  ┣━━第015课网关uid管理.vep.mkv
+  ┣━━第016课客户端主页效果设计.vep.mkv
+  ┣━━第017课用户信息保存与同步.vep.mkv
+  ┣━━第018课用.户.资.料.修.改.(一)part2.vep.mkv
+  ┣━━第018课用户资料修改(一)part1.vep.mkv
+  ┣━━第019课用.户.资.料.修.改.(二).vep.mkv
+  ┣━━第020课用户中心redis.vep.mkv
+  ┣━━第021课游客账号升级(一).vep.mkv
+  ┣━━第022课游客账号升级(二).vep.mkv
+  ┣━━第023课正式账号登陆.vep.mkv
+  ┣━━第024课用户账号注销.vep.mkv
+  ┣━━第025课系统服务器_用户游戏数据.vep.mkv
+  ┣━━第026课系统服务器_游戏数据注册与获取.vep.mkv
+  ┣━━第027课用户的经验与等级.vep.mkv
+  ┣━━第028课用户登陆奖励(一).vep.mkv
+  ┣━━第029课用户登陆奖励(二).vep.mkv
+  ┣━━第030课用户登陆奖励(三).vep.mkv
+  ┣━━第031课游戏redis数据库.vep.mkv
+  ┣━━第032课游戏排行榜的制作(一).vep.mkv
+  ┣━━第035课系统消息(一).vep.mkv
+  ┣━━第036课系统消息(二).vep.mkv
+  ┣━━第037课主页UI设计.vep.mkv
+  ┗━━第038课战斗主页设计.vep.mkv
+07战斗逻辑服务器
+  ┣━━第001课逻辑服务器搭建.vep.mkv
+  ┣━━第002课逻辑服务器登陆.vep.mkv
+  ┣━━第003课逻辑服务器与玩家断线.vep.mkv
+  ┣━━第004课玩家匹配(一).vep.mkv
+  ┣━━第005课玩家匹配(二)进入游戏房间比赛.vep.mkv
+  ┣━━第006课机器人的设计与实现(一).vep.mkv
+  ┣━━第007课机器人得设计与实现(二).vep.mkv
+  ┣━━第008课玩家匹配显示.vep.mkv
+  ┣━━第009课玩家退出.vep.mkv
+  ┣━━第010课玩家离开广播.wmv
+  ┣━━第011课比赛开始.wmv
+  ┣━━第012课游戏场景GUI主页设计.wmv
+  ┣━━第013课游戏场景的资源导入和加载.wmv
+  ┣━━第014课摇杆控制角色移动.wmv
+  ┣━━第015课角色性别_网络代码bug修正_C++内存分配器修正.wmv
+  ┣━━第016课打上地图障碍物.wmv
+  ┣━━第017课帧同步的基本流程.wmv
+  ┣━━第018课逻辑服务器添加UDP通讯(part1).wmv
+  ┣━━第018课逻辑服务器添加UDP通讯(part2).wmv
+  ┗━━第018课逻辑服务器添加UDP通讯(part3).wmv     
